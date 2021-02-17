@@ -1,1 +1,1 @@
-This is the template repository for the client functions for the CS 465 midterm.
+This is the template repository for the client functions for the CS 465 midterm **makeup** exam.
